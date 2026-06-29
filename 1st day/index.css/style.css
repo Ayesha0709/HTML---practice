@@ -1,0 +1,25 @@
+h1{
+    color:darkred;
+}
+body{
+    background-color: bisque;
+   background-color: rebeccapurple;
+}
+p{
+    color: crimson;
+}
+h4{
+    color: brown;
+}
+pre{
+    color:aqua;
+    background-color: black;
+}
+button{
+    background-color: pink;
+    color:red;
+}
+footer{
+    background-color: pink;
+    color:deeppink;
+}

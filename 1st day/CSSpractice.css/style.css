@@ -1,0 +1,89 @@
+#box {
+    color: aliceblue;
+    background-color: blue;
+    text-decoration: yellow dotted  underline;
+    
+}
+/* .heading{
+    color: red;
+} */
+h2,h3{
+    color: red;
+    text-align: center;
+
+}
+button{
+    background-color: rgb(125, 231, 125);
+}
+p{
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+ h1{
+    color: red;
+    text-align: center;
+    text-decoration: overline;}
+    h2{
+        text-decoration: line-through;
+    }
+    h3{
+        text-decoration: purple underline ;
+
+    }
+
+    a{
+        text-decoration: none;
+        color: cornflowerblue;
+        background-color: chocolate;
+        font-family: cursive;
+        
+      button{
+        background-color: antiquewhite;
+      }
+    }
+    #q1{
+        font-weight: normal;
+        font-size: 30px;
+        text-transform: uppercase;
+
+    }
+    #q2{
+        font-weight: bold;
+        font-size: 25px;
+    }
+     #q3{
+        font-weight: lighter;
+        font-size: 10px;
+        text-transform: lowercase;
+    }
+     #q4{
+        font-weight: bolder;
+    }
+     #q5{
+        font-weight:900;
+    }
+   #one{
+    line-height: 10px;
+    text-transform: capitalize;
+   }
+   #two{
+    line-height: 50px;
+    text-transform: lowercase;
+   }
+
+
+   #outer{
+    font-size : 25px;
+   }
+    
+   #inner{
+    font-size: 10px;
+   }
+
+
+
+
+
+
+
